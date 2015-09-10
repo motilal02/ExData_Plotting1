@@ -112,3 +112,9 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+### Completed assignment with
+   + 4 R files (plot1.R, plot2.R, plot3.R and plot4.R) and 
+   + 4 png image files (plot1.png, plot2.png, plot3.png, and plot4.png)
+
+
